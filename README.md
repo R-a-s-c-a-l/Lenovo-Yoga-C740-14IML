@@ -1,4 +1,4 @@
-# Lenovo_Yoga-C740-14IML
+# Lenovo Yoga C740 14IML
 
 |            |                                                           |
 | --------   | --------------------------------------------------------- |
@@ -8,6 +8,7 @@
 | Disk       | SN570                                                     |
 | Ethernet   | None                                                      |
 | Bootloader | OpenCore 0.8.3 Release                                    |
+| Supported macOS Version | macOS BigSur & Monterey                      |
 
 # 状态
 ## 正常
