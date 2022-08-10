@@ -12,9 +12,9 @@
 
 # 状态
 ## 正常
- - 键盘、触摸板 (GPIO)、触摸屏(Polling)、
+ - 键盘、触摸板 (GPIO)、触摸屏(Polling) 二者均支持五点触控
  - Type C 输出 未测试
- - Wi-Fi 蓝牙 (已更换 BCM94360CS2, EFI 中已添加 Intel无线驱动)
+ - Wi-Fi 蓝牙 (已更换 BCM94360CS2, Intel无线驱动自行添加)
  - 声卡 (Intel SST 内置麦克风无法驱动)
  - 亮度 
  - 快捷键(部分)
@@ -22,7 +22,7 @@
  - 睡眠
  - USB
 ## 不正常
- - 帮别人做, 没禁行详细测试, 有问题请提交issues
+ - 帮别人做, 没详细测试, 有问题请提交issues
  ## 鸣谢
 - [VoodooI2C](https://github.com/VoodooI2C) 提供 [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
 - [1Revenger1](https://github.com/1Revenger1) 提供 [ECEnabler](https://github.com/1Revenger1/ECEnabler).
